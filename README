@@ -1,0 +1,5 @@
+Miscellaneous scripts 
+
+html/ contains various hacks of HTML, CSS that Sairam Kunala uses every day
+rb/ contains various hacks of Ruby that Sairam Kunala uses every day
+dotfiles/ - .git and .bash* files
